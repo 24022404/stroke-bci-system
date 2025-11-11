@@ -1,0 +1,2 @@
+Đề bài: Thiết kế kiến trúc hệ BCI cho đánh vần hoặc phục hồi chức năng của bệnh 
+nhân đột quỵ
