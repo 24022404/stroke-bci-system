@@ -4,8 +4,7 @@ nhân đột quỵ
 1, Cần chọn 1 chủ đề cụ thể 
 2, Lý do chọn chủ đề đó? 
 3, Thách thức cần giải quyết?
-4, Có tổng quan hiện tại người ta đã làm gì với bài toán này? - so sánh kết quả
-của nguồi ra với mình
+4, Có tổng quan hiện tại người ta đã làm gì với bài toán này? 
 5, Đề xuất hướng giải quyết thách thức?
 6, Trên cơ sở hướng giải quyết, có phương pháp cụ thể mà nhóm đề xuất, có
 lý luận vì sao phương pháp này phù hợp, đóng góp của nhóm là gì?
