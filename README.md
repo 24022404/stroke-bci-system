@@ -21,7 +21,7 @@ Deadline: 16/12/2025 - Nộp báo cáo
 
 ---
 
-## 🎯 Tổng quan đề tài
+## Tổng quan đề tài
 
 ### Đề bài
 **Thiết kế kiến trúc hệ BCI cho đánh vần hoặc phục hồi chức năng của bệnh nhân đột quỵ**
@@ -53,7 +53,7 @@ stroke-bci-system/
 
 ---
 
-## 📖 Nội dung chính
+## Nội dung chính
 
 ### 1. Thách thức cần giải quyết
 
