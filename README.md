@@ -4,11 +4,9 @@ Deadline: 16/12/2025 - Nộp báo cáo
 
 # Hệ thống BCI dựa trên Motor Imagery kết hợp Feedback Thị giác cho Phục hồi Vận động Chi trên ở Bệnh nhân Đột quỵ
 
-## 📋 Thông tin nhóm
+## Thông tin nhóm
 
 **Tên môn học:** [Tên môn học - ví dụ: Giao diện Não-Máy tính / Brain-Computer Interface]
-
-**Giảng viên hướng dẫn:** [Tên giảng viên]
 
 **Nhóm thực hiện:**
 
@@ -38,7 +36,7 @@ Deadline: 16/12/2025 - Nộp báo cáo
 
 ---
 
-## 📁 Cấu trúc dự án
+## Cấu trúc dự án
 
 ```
 stroke-bci-system/
@@ -114,7 +112,7 @@ stroke-bci-system/
 
 ---
 
-## 💻 Code Demo
+## Code Demo
 
 ### Yêu cầu hệ thống
 ```bash
@@ -146,11 +144,11 @@ jupyter nbconvert --to notebook --execute BCI_Motor_Imagery_Demo.ipynb
 ```
 
 ### Nội dung demo
-1. ✅ Load và visualize EEG data (synthetic)
-2. ✅ Bandpass filtering (8-30 Hz)
-3. ✅ CSP implementation với regularization
-4. ✅ LDA classification
-5. ✅ Plots: Confusion matrix, accuracy, CSP patterns, feature space
+1. Load và visualize EEG data (synthetic)
+2. Bandpass filtering (8-30 Hz)
+3. CSP implementation với regularization
+4. LDA classification
+5. Plots: Confusion matrix, accuracy, CSP patterns, feature space
 
 **Lưu ý:** Code demo sử dụng **dữ liệu giả lập** (synthetic data) để minh họa concept. Trong thực tế, có thể load dataset công khai từ BCI Competition hoặc PhysioNet.
 
@@ -160,22 +158,22 @@ jupyter nbconvert --to notebook --execute BCI_Motor_Imagery_Demo.ipynb
 
 ### Từ báo cáo LaTeX
 
-- ✅ **Chủ đề cụ thể:** Motor Imagery BCI với visual feedback
-- ✅ **Literature review:** So sánh 3 phương pháp chính
-- ✅ **Phương pháp đề xuất:** CSP + LDA với regularization
-- ✅ **Đóng góp:** 3 cải tiến (Regularized CSP, Adaptive Feedback, Personalized Protocol)
-- ✅ **Thiết kế thí nghiệm:** 3 experiments với metrics rõ ràng
+- **Chủ đề cụ thể:** Motor Imagery BCI với visual feedback
+- **Literature review:** So sánh 3 phương pháp chính
+- **Phương pháp đề xuất:** CSP + LDA với regularization
+- **Đóng góp:** 3 cải tiến (Regularized CSP, Adaptive Feedback, Personalized Protocol)
+- **Thiết kế thí nghiệm:** 3 experiments với metrics rõ ràng
 
 ### Từ code demo
 
-- ✅ **CSP filters:** Học được spatial patterns phân biệt 2 class
-- ✅ **Accuracy:** Đạt 75-90% trên synthetic data
-- ✅ **Visualization:** Confusion matrix, CSP patterns, feature space
-- ✅ **Regularization:** Cải thiện generalization
+- **CSP filters:** Học được spatial patterns phân biệt 2 class
+- **Accuracy:** Đạt 75-90% trên synthetic data
+- **Visualization:** Confusion matrix, CSP patterns, feature space
+- **Regularization:** Cải thiện generalization
 
 ---
 
-## 📚 Tài liệu tham khảo
+## Tài liệu tham khảo
 
 Xem chi tiết trong file `Report.tex` phần References:
 
@@ -251,26 +249,7 @@ jupyter notebook BCI_Motor_Imagery_Demo.ipynb
 ```
 
 ---
-
-## 🙏 Lời cảm ơn
-
-Nhóm xin chân thành cảm ơn:
-- Thầy/Cô [Tên giảng viên] đã hướng dẫn và góp ý
-- Các tác giả của papers tham khảo
-- Cộng đồng BCI Competition và PhysioNet
-- Các thư viện mã nguồn mở: NumPy, SciPy, scikit-learn
-
----
-
-## 📧 Liên hệ
-
-Nếu có thắc mắc về dự án, vui lòng liên hệ:
-- Email nhóm: [group-email@example.com]
-- Hoặc liên hệ trực tiếp các thành viên (xem bảng thông tin nhóm ở trên)
-
----
-
-## 📜 License
+## License
 
 Dự án này được thực hiện cho mục đích học tập và nghiên cứu.
 
