@@ -1,5 +1,5 @@
 Đây là mini project sô 1  
-Deadline: 16/12/2025 - Nộp báo cáo
+Deadline: 16/12/2025 - Nộp báo cáo  
           06/01/2025 - Thuyết trình
 
 # Hệ thống BCI dựa trên Motor Imagery kết hợp Feedback Thị giác cho Phục hồi Vận động Chi trên ở Bệnh nhân Đột quỵ
